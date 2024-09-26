@@ -4,6 +4,8 @@
 // generalUtils.c
 
 
+// Boolean types implementation
+
 void setTrue(bool value)
 {
 	value = true;
