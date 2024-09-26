@@ -6,7 +6,8 @@
 
 // Macros for Logic Operators
 
-# define eq         ==
+# define eq					==
+# define equ        ==
 # define neq        !=
 # define gt         >
 # define gte        >=
