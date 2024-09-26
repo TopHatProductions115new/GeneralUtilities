@@ -14,7 +14,7 @@ Will be using this as a reference, once I reach he last two items:
 
 
 Tested (minimally) with:
- - https://www.onlinegdb.com/online_c_compiler
+	- https://www.onlinegdb.com/online_c_compiler
 
 
 Side Note: Using tabs, indent size 2.
