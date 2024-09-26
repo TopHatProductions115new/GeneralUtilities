@@ -2,8 +2,7 @@
 A bundle of general utilities, for use in any future projects
 
 
-Added boolean and some (subjectively) convenient macros thus far, aiming for
- - buffer
+Added boolean and some (subjectively) convenient macros thus far, aiming for:
  - string (managed unsigned char array)
  - tree
  - graph
