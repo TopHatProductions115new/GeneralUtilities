@@ -1,7 +1,11 @@
-You are free to use the contents of this repository as yo usee fit. But it is also your responsibility to adhere to any legal requirements/restrictions that may apply to you or your organisation.
+You are free to use the contents of this repository as you see fit. But it is your responsibility
+to adhere to any laws and/or policies that apply to you or your organisation.
 
-TXP-Network CD, LLC shall not be held responsible for your actions. The contents of this repository are provided as-is, without warranty. Support shall be provided on an ad-hoc basis.
+TXP-Network CD, LLC shall not be held responsible for your actions (or the consequences of said 
+actions). The contents of this repository are provided as-is, without any warranty. Support shall
+be provided on an ad-hoc basis (depending upon availability).
 
-If redistributing/reusing code from this repo, please let all affected parties know. Also inform them if you've made any changes.
+If redistributing/reusing code from this repo, please let all affected parties know. You must also
+inform them if you've made any changes.
 
 Distributing changed/non-original versions, without notice of change/modification, isn't nice.
